@@ -28,17 +28,6 @@ The site is deployed using **GitHub Pages**.
 - Develop locally and deploy online
 - (Optional) Use a custom domain name
 
-## Getting Started
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/my_portfolio.git
-   ```
-2. Navigate into the project folder:  
-   ```bash
-   cd my_portfolio
-   ```
-3. Open `index.html` in your browser.
-
 ## Roadmap / Timeline
 - **Day 1**: Set up repo, basic HTML structure  
 - **Day 2**: Add CSS styling and layout  
