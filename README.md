@@ -19,7 +19,7 @@ Built as part of the Codecademy project path.
 
 ## Deployment
 The site is deployed using **GitHub Pages**.  
-👉 [View Live Website](https://your-github-username.github.io/your-repo-name)
+👉 [View Live Website](https://dzonsik.github.io/my_portfolio/)
 
 ## Project Objectives
 - Build a static website using HTML, CSS
